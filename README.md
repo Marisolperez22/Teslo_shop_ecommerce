@@ -17,9 +17,6 @@ Este es un proyecto para trabajar con:
 [Teslo Backend - Nest RestServer](https://hub.docker.com/repository/docker/klerith/flutter-backend-teslo-shop/general)
 
 
-# Importante
-Recuerden leer y seguir la guía para montar el backend localmente.
-
-También creen el archivo __.env__ basado en el __.env.template__ y coloquen su dirección IP, si es Android específicamente lo que van a emular
+Crear el archivo __.env__ basado en el __.env.template__ y coloquen su dirección IP, si es Android específicamente lo que van a emular
 
 
